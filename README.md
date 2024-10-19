@@ -24,7 +24,6 @@ El árbol binario es una estructura de datos jerárquica en la que cada nodo tie
 2. Abre el proyecto en tu IDE favorito (Eclipse, IntelliJ, etc.).
 3. Compila y ejecuta el proyecto.
 
-Ejemplo de uso
 public class Main {
     public static void main(String[] args) {
         AB<Integer> arbol = new AB<>();
@@ -36,3 +35,4 @@ public class Main {
         System.out.println("Cantidad de nodos: " + arbol.cantNodos());
     }
 }
+
